@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppLauncher</string>
+    <string name="action_settings">Settings</string>
+    <string name="spotify">Spotify launcher</string>
+    <string name="scores_app">Scores app</string>
+    <string name="library_app">Library app</string>
+    <string name="build_bigger">Build it bigger</string>
+    <string name="xyz_reader">XYZ Reader</string>
+    <string name="capstone">Capstone</string>
+    <string name="launcher">My nanodegree app launcher</string>
+</resources>
