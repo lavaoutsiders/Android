@@ -50,6 +50,7 @@ public class MainActivity extends AppCompatActivity {
     public void DisplayCapstone(View view) {
         DisplayToast("Capstone App!");
     }
+    //Displays the toast on the screen
     public void DisplayToast(String strText) {
 
         Context context = getApplicationContext();
